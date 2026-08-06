@@ -45,7 +45,7 @@ The dataset is included in this repository.
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://github.com/mehdifr24/heart_disease_prediction_ml/blob/main/confusion_matrix.png)
 
 
 ### Model Comparison
