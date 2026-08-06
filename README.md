@@ -55,7 +55,7 @@ The dataset is included in this repository.
 
 ### Decision Tree Visualization
 
-![Decision Tree](images/decision_tree.png)
+![Decision Tree](https://github.com/mehdifr24/heart_disease_prediction_ml/blob/main/decision_tree.png)
 
 ## 🏆 Final Model Selection
 Decision Tree was selected as the final model because it achieved the highest Recall score (96.97%).
