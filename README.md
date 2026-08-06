@@ -41,6 +41,22 @@ The dataset is included in this repository.
 | SVM | 83.61% | 79.49% | 93.94% | 86.11% |
 | Decision Tree | 83.61% | 78.05% | 96.97% | 86.49% |
 
+## 📊 Results Visualization
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+
+### Model Comparison
+
+![Model Comparison](images/models_comparison.png)
+
+
+### Decision Tree Visualization
+
+![Decision Tree](images/decision_tree.png)
+
 ## 🏆 Final Model Selection
 Decision Tree was selected as the final model because it achieved the highest Recall score (96.97%).
 
