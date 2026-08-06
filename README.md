@@ -50,7 +50,7 @@ The dataset is included in this repository.
 
 ### Model Comparison
 
-![Model Comparison](images/models_comparison.png)
+![Model Comparison](https://github.com/mehdifr24/heart_disease_prediction_ml/blob/main/models_comparison.png)
 
 
 ### Decision Tree Visualization
